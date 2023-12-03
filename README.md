@@ -1,0 +1,1 @@
+The trick of this project is not its complexity, but its usefulness and history.  I had an entrance exam at school, I wanted to write this exam for maximum score, but I could not understand how to solve one example, but I had already written something python, I did not understand how to solve this example, I wrote a code that solves this example by
